@@ -6,4 +6,4 @@ capítulo 13
     aula07 - Criando um exemplo real
 capítulo 14
     aula02 - Tipografia, fontes em CSS3
-    
+    aula06 – Usando Google Fonts
